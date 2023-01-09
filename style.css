@@ -20,7 +20,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
+.heading{
+  color: #fff;
+  margin-bottom: 50px;
+  font-size: 70px;
+  
+}
+
 
 /* LAYOUT */
 main {
